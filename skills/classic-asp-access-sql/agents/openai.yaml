@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classic ASP Access SQL"
+  short_description: "Format MS Access SQL strings safely in Classic ASP."
+  default_prompt: "Use this skill when writing or reviewing SQL string construction for Classic ASP code that targets MS Access."
