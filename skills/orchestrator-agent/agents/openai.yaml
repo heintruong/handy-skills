@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrator Agent"
+  short_description: "Task-by-task agent orchestration workflow"
+  default_prompt: "Use $orchestrator-agent to break this implementation plan into validated agent tasks."
