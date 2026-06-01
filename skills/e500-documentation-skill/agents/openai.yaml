@@ -1,0 +1,4 @@
+interface:
+  display_name: "E500 Documentation"
+  short_description: "Write E500 system notes in Hein's Obsidian-friendly style."
+  default_prompt: "Use this skill when documenting E500 codebase knowledge, schemas, flows, implementation decisions, or Jira-ready technical notes."
