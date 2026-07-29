@@ -1,0 +1,4 @@
+interface:
+  display_name: "T4C E500 Aanmeldform Testing"
+  short_description: "Test E500 registration and account provisioning"
+  default_prompt: "Use $t4c-e500-testing-aanmeldform to test an E500 aanmeldform on local IIS."
